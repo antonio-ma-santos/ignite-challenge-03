@@ -1,6 +1,6 @@
 <h1 align="center">RocketShoes</h1>
 
-<img src="src/assets/watchme.gif" alt="imagem do site">
+<img src="src/assets/carrinhoDeCompras.gif" alt="imagem do site">
 
 > Site de carrinho de compras.
 
